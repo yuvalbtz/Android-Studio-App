@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/yuvalfhotoresize"
+    tools:context=".yuval">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#99000000"/>
+
+<TextView
+    android:id="@+id/text1"
+    android:text="Hii,"
+    android:textColor="#FFFF"
+    android:textSize="38pt"
+    android:translationX="140sp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/text2"
+        android:text="My name is Yuval"
+        android:textColor="#FFFF"
+        android:textSize="22pt"
+        android:translationX="10dp"
+        android:translationY="45pt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/text3"
+        android:text="I like to develop ideas That will help people"
+        android:textColor="#FFFF"
+        android:textSize="18pt"
+        android:gravity="center"
+        android:translationX="0dp"
+        android:translationY="75pt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/text4"
+        android:text="There for, I made BookkeepingX App"
+        android:textColor="#FFFF"
+        android:gravity="center"
+        android:textSize="18pt"
+        android:translationX="3dp"
+        android:translationY="140pt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:id="@+id/text5"
+        android:text="For you!"
+        android:textColor="#FFFF"
+        android:textSize="25pt"
+        android:translationX="100dp"
+        android:translationY="185pt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/text6"
+        android:text="Enjoy!"
+        android:textColor="#FFFF"
+        android:textSize="25pt"
+        android:translationX="122dp"
+        android:translationY="215pt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:id="@+id/text7"
+        android:text="©"
+        android:textColor="#FFFF"
+        android:textSize="7pt"
+        android:translationX="82dp"
+        android:translationY="255pt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/text8"
+        android:text="Copyright"
+        android:textColor="#FFFF"
+        android:textSize="7pt"
+        android:translationX="20dp"
+        android:translationY="255pt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:id="@+id/text9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2020 - BookkeepingX.All rights reserved"
+        android:textColor="#FFFF"
+        android:textSize="7pt"
+        android:translationX="95dp"
+        android:translationY="255pt" />
+
+</RelativeLayout>

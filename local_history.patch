@@ -1,0 +1,15 @@
+Index: app/src/main/res/layout-v26/dialog.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout-v26/dialog.xml	(date 1566248592970)
++++ app/src/main/res/layout-v26/dialog.xml	(date 1566248592970)
+@@ -43,7 +43,6 @@
+             android:inputType="number|numberDecimal"
+             android:singleLine="true"
+             android:translationX="20dp"
+-            android:autofillHints="no"
+             android:translationY="-90dp" />
+ 
+         <EditText

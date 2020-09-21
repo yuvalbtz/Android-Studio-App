@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BookkeepingX</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">HSI - BookkeepingX</string>
+    <string name="nav_header_subtitle">Developer: Yuval Ben-Tzur</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Export To Exel</string>
+
+    <string name="menu_home">Your Budget</string>
+    <string name="menu_gallery">Your Table Buy</string>
+    <string name="menu_slideshow">Export Table To Exel</string>
+    <string name="menu_tools">About Me</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="click_me">Click me!</string>
+    <string name="add_btn">Add</string>
+    <string name="Update_btn">Update</string>
+    <string name="Delete_btn">Delete</string>
+
+    <string name="date_TXT">Date</string>
+    <string name="amount_TXT">Spending</string>
+    <string name="Details">Type Items Buy</string>
+    <string name="Receipt">Receipt</string>
+
+    <string name="title_activity_about_me_activity">about_me_activity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
